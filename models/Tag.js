@@ -1,7 +1,5 @@
 const { Model, DataTypes } = require('sequelize');
-
 const sequelize = require('../config/connection.js');
-
 class Tag extends Model {}
 
 Tag.init(
@@ -14,7 +12,7 @@ Tag.init(
       allowNull: false
     },
     
-    product_name: {
+    tag_name: {
       type: DataTypes.STRING,
     }
   },
@@ -26,5 +24,4 @@ Tag.init(
     modelName: 'tag',
   }
 );
-
 module.exports = Tag;
