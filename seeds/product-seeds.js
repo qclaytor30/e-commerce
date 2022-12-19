@@ -1,5 +1,4 @@
 const { Product } = require('../models');
-
 const productData = [
   {
     product_name: 'Plain T-Shirt',
@@ -32,7 +31,5 @@ const productData = [
     category_id: 2,
   },
 ];
-
 const seedProducts = () => Product.bulkCreate(productData);
-
 module.exports = seedProducts;
