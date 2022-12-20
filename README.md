@@ -5,6 +5,7 @@ The challenge is to build the back end for an e-commerce site. Taking a working 
 
 ## Screenshot
 ![Screenshot of application in command line](/img/Screen%20Shot%202022-12-19%20at%206.50.36%20PM.png)
+![Screenshot of insomnia](/img/Screen%20Shot%20insomnia%20at%207.01.12%20PM.png)
 ## Access
 [GitHub Repository](https://github.com/qclaytor30/e-commerce)
 
