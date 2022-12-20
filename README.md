@@ -9,6 +9,7 @@ The challenge is to build the back end for an e-commerce site. Taking a working 
 ## Access
 [GitHub Repository](https://github.com/qclaytor30/e-commerce)
 
+[Video Walkthrough](https://youtu.be/NXFEg66Vfc0)
 ## Installation
 To install necessary dependencies, run the following command:
 
